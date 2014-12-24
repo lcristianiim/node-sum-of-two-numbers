@@ -1,0 +1,27 @@
+{
+  "name": "sum-of-two-numbers",
+  "version": "1.0.0",
+  "description": "A module that calculates the sum of two numbers.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lcristianiim/node-sum-of-two-numbers.git"
+  },
+  "keywords": [
+    "sum",
+    "numbers",
+    "nodejs"
+  ],
+  "author": "Cristian Szabo <lcristianiim@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcristianiim/node-sum-of-two-numbers/issues"
+  },
+  "homepage": "https://github.com/lcristianiim/node-sum-of-two-numbers"
+}
